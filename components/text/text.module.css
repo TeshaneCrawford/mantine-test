@@ -1,0 +1,16 @@
+.box {
+    font-size: var(--mantine-h1-font-size);
+    text-align: center;
+    font-weight: var(--mantine-h4-font-weight);
+    text-shadow: var(--mantine-shadow-xs);
+  }
+
+  .highlight {
+    padding: 0.1rem 0.7rem;
+    display: inline-block;
+    border-radius: var(--mantine-radius-md);
+    background: var(--mantine-color-blue-light);
+    color: var(--mantine-color-blue-light-color);
+    text-shadow: var(--mantine-shadow-xs);
+    
+  }
